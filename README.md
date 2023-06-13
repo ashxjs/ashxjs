@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**ashxjs/ashxjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexis Hurunghee, a full stack developer !<br/>
+Typescript and Javascript lover !
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a front-end developer freelance<br/>
+📚 I like to discover new language and framework<br/>
+🌍 Paris, France
+<br/>
+<br/>
+
+### Technologies
+
+▪ Front-end : React.js | React-Native TypeScript | JavaScript<br/>
+▪ Back-end : Node.js | NestJS <br/>
+▪ Database : MySQL | PostgreSQL <br/>
+▪ Versionning : Git <br/>
+▪ Tests : units | integrations | end-to-end<br/>
+▪ Deployment & hosting: Heroku | Supabase<br/>
+▪ CI/CD: Github actions | Gitlab CI/CD
