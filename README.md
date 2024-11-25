@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexis
 
-👩🏻‍💻 Software Engineer <br/>
+👩🏻‍💻 Software Engineer, based in Paris's suburbs, France<br/>
 👩🏻‍🎓 Studied Computer Science at the University of Pau, France<br/>
 💭 Currently learning Go & SOLID & Clean Architecture.
 
