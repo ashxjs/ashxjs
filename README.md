@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexis
 
-👩🏻‍💻 Software Engineer <br/>
+👩🏻‍💻 Software Engineer, based in Paris's suburbs, France<br/>
 👩🏻‍🎓 Studied Computer Science at the University of Pau, France<br/>
 💭 Currently learning Go & SOLID & Clean Architecture.
 
@@ -38,4 +38,3 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true
