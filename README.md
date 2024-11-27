@@ -4,17 +4,30 @@
 👩🏻‍🎓 Studied Computer Science at the University of Pau, France<br/>
 💭 Currently learning Go & SOLID & Clean Architecture.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true" />
-</picture>
+<center>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-theta-taupe.vercel.app/api?username=ashxjs&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats-theta-taupe.vercel.app/api/top-langs/?username=ashxjs&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-theta-taupe.vercel.app/api/top-langs/?username=ashxjs&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-theta-taupe.vercel.app/api/top-langs/?username=ashxjs&layout=compact" />
+  </picture>
+</center>
 
 # 💻 Tech Stack
 
